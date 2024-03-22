@@ -1,0 +1,124 @@
+.header {
+    background-color: #11272c;
+}
+
+.logo img {
+    width: 200px;
+    margin: 20px;
+}
+
+.searchbar input {
+    margin-top: 20px;
+    width: 650px;
+    height: 40px;
+    border-radius: 0 20px 20px 0;
+    background-color: #0a171a;
+    color: azure;
+    padding-left: 0;
+    border: none;
+
+}
+
+.search-button {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* margin-right: -50; */
+    height: 40px;
+    border-radius: 20px 0 0 20px;
+    background-color: #0a171a;
+    color: azure;
+    border: none;
+
+}
+
+.login {
+    color: azure;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+}
+
+.body {
+    background-color: #0a171a;
+}
+
+.c1 {
+    border-radius: 30px;
+    margin-top: 30px;
+    width: 90%;
+}
+
+.c1 img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.box2 {
+    background-color: #11272c;
+    color: azure;
+}
+
+.c2 {
+    background-color: #0a171a;
+    width: 90%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.c2 img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.ads {
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+.footer {
+    background-color: #11272c;
+
+}
+
+.footer img {
+    width: 200px;
+    margin: 20px;
+}
+
+.list1 ul {
+    list-style-type: none;
+}
+
+.list1 ul li a {
+    text-decoration: none;
+    color: azure;
+}
+
+.list1 ul li a:hover {
+    color: yellow;
+}
+
+.text1 {
+    color: azure;
+    opacity: 90%;
+}
+
+.copyright {
+    padding: 30px;
+    width: 100%;
+    border-top: 1px solid azure;
+    color: azure;
+}
+
+.copyright a {
+    color: azure;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    color: yellow;
+    text-decoration: none;
+
+}

@@ -1,0 +1,22 @@
+.container-fluid {
+    background-color: #181818;
+}
+
+.form {
+    width: 100%;
+    padding-right: 75px;
+    padding-left: 75px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #181818;
+    margin-top: -30px;
+}
+
+@media (max-width: 576px) {
+
+    /* Thiết lập padding khi màn hình nhỏ hơn hoặc bằng 576px (XS) */
+    .form {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+}
